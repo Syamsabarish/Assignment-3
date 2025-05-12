@@ -6,6 +6,6 @@ Model: XGBoost Regressor
 Geospatial Calculation: geopy (great-circle distance)
 Model Serialization: joblib
 
-The Streamlit web app (UI) for user interaction ()
-Core ML pipeline and training logic from ()
+The Streamlit web app (UI) for user interaction (Amazon_ Delivery _Time_prediction.py),
+Core ML pipeline and training logic from (AMAZON_MLfLOW.py)
 
