@@ -90,7 +90,7 @@ def train_and_save_model():
     joblib.dump(model_pipeline, MODEL_FILE)
     return model_pipeline
 
-# Load or Train Model
+
 if os.path.exists(MODEL_FILE):
     pipeline = joblib.load(MODEL_FILE)
 else:
